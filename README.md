@@ -32,7 +32,7 @@ I have a Bachelor's degree in Computer Science (Systems Analysis) and a **Postgr
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="devicon" height="50" width="50" title="CSS" />
 </p>
 
-<hr>
+<!-- <hr>
 <div align="left">
     <a href="https://www.linkedin.com/in/leandropessini/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+</div> -->
