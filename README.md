@@ -1,18 +1,21 @@
-[![MasterHead](https://github.com/pessini/pessini/blob/850434e6fc47f2a8b82ecd4d2c174885af625871/img/banner-neurons.png?raw=true)](https://pessini.me)
-<!-- <a href="https://pessini.me"><img align="right" alt="banner" height="150" src="dev.gif"></a> -->
-<!-- https://github.com/pessini/pessini/blob/850434e6fc47f2a8b82ecd4d2c174885af625871/img/datasci.jpg -->
-<h1 align="center">Hi, I'm Leandro</h1>
-<h3 align="center">A Data Analyst / Data Scientist based in Dublin :ireland:</h3>
+<a href="https://pessini.me"><img align="center" alt="banner" src="https://github.com/pessini/pessini/blob/850434e6fc47f2a8b82ecd4d2c174885af625871/img/banner-neurons.png?raw=true"></a>
+<h2 align="center">Hi, I'm Leandro</h2>
+<h4 align="center">A Data Analyst / Data Scientist based in Dublin :ireland:</h4>
 
 <img align="right" alt="Coding" width="300" src="https://github.com/pessini/pessini/blob/d6cf1f7d9c634b5b6cb9cb0549ddec56d558b18c/img/dev.gif?raw=true" />
 
+<h4>About me</h4>
+
 Background in Software Engineering and Project Management transitioning to Data Science.
+
+Currently working with Data Analysis within Risk & Response Legal team.
+
 
 I have a Bachelor's degree in Computer Science (Systems Analysis) and a **Postgraduate Diploma in Data Science** at [TU Dublin](https://www.tudublin.ie/).
 
-<h3>Tech skills</h3>
+<h4>Tech skills</h4>
 
-<p align="center">
+<p align="left">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="60" width="60" title="Python" />
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="devicon" height="50" width="50" title="R" />
@@ -23,7 +26,7 @@ I have a Bachelor's degree in Computer Science (Systems Analysis) and a **Postgr
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="devicon" height="50" width="50" title="MySQL" />
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="devicon" height="50" width="50" title="MongoDB" /><br />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="devicon" height="50" width="50" title="MongoDB" />
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50" width="50" title="Docker" />
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
