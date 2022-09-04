@@ -10,7 +10,6 @@ Background in Software Engineering and Project Management transitioning to Data 
 
 Currently working with Data Analysis within Risk & Response Legal team.
 
-
 I have a Bachelor's degree in Computer Science (Systems Analysis) and a **Postgraduate Diploma in Data Science** at [TU Dublin](https://www.tudublin.ie/).
 
 <h3>Tech skills</h3>
