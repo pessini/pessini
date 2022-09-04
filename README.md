@@ -23,7 +23,7 @@ I have a Bachelor's degree in Computer Science (Systems Analysis) and a **Postgr
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="devicon" height="50" width="50" title="MySQL" />
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="devicon" height="50" width="50" title="MongoDB" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="devicon" height="50" width="50" title="MongoDB" /><br />
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50" width="50" title="Docker" />
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
