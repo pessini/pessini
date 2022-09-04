@@ -1,8 +1,9 @@
 [![MasterHead](https://github.com/pessini/pessini/blob/33f805f7d0e8cdf736cabbbb100bc2b0a1c26329/img/banner.jpg?raw=true)](https://pessini.me)
+<!-- <a href="https://pessini.me"><img align="right" alt="banner" height="150" src="dev.gif"></a> -->
 <h1 align="center">Hi, I'm Leandro</h1>
 <h3 align="center">A Data Analyst / Data Scientist based in Dublin :ireland:</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="dev.gif">
 
 Background in Software Engineering and Project Management transitioning to Data Science.
 
