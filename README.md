@@ -1,9 +1,3 @@
-<div align="center">
-<a href="https://pessini.me">
-  <img height="300" alt="banner" src="https://github.com/pessini/pessini/blob/850434e6fc47f2a8b82ecd4d2c174885af625871/img/banner-neurons.png?raw=true">
-</a>
-</div>
-
 <h1 align="center">Hi, I'm Leandro</h1>
 <h3 align="center">A Data Analyst / Data Scientist based in Dublin :ireland:</h3>
 
