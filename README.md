@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
 <a href="https://pessini.me">
   <img height="300" alt="banner" src="https://github.com/pessini/pessini/blob/850434e6fc47f2a8b82ecd4d2c174885af625871/img/banner-neurons.png?raw=true">
 </a>
