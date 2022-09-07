@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leandro</h1>
 <h3 align="center">A Data Analyst / Data Scientist based in Dublin :ireland:</h3>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/pessini/pessini/blob/d6cf1f7d9c634b5b6cb9cb0549ddec56d558b18c/img/dev.gif?raw=true" />
+<img align="right" alt="Coding" width="300" style="margin:10px;" src="https://github.com/pessini/pessini/blob/d6cf1f7d9c634b5b6cb9cb0549ddec56d558b18c/img/dev.gif?raw=true" />
 
 <h3>About me</h3>
 
