@@ -5,9 +5,9 @@
 
 <h3>About me</h3>
 
-Formed Software Engineer and Project Management, helping businesses making better decisions and solving problems applying Data Science and Machine Learning.
+Formed Software Engineer and Project Manager, helping businesses make better decisions and solving problems by applying Data Science and Machine Learning.
 
-Currently working with Data Analytics within Risk & Response Legal team, specialised in reporting automation and product/process improvements.
+Currently working in Data Analytics within the Risk & Response Legal team, specializing in report automation and product/process improvements.
 
 Hold a Bachelor's degree in Computer Science (Systems Analysis) and a **Postgraduate Diploma in Data Science** from [TU Dublin](https://www.tudublin.ie/).
 
