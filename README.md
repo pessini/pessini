@@ -11,6 +11,7 @@ Currently working in **Data Analytics** within the Risk & Response Legal team, s
 
 Hold a Bachelor's degree in Computer Science (Systems Analysis) and a Postgraduate Diploma in **Data Science** from [TU Dublin](https://www.tudublin.ie/).
 
+<div>
 <h3>Tech skills</h3>
 
 <p align="left">
@@ -36,7 +37,7 @@ Hold a Bachelor's degree in Computer Science (Systems Analysis) and a Postgradua
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="devicon" height="50" width="50" title="CSS" />
 </p>
-
+</div>
 <!-- <hr>
 <div align="left">
     <a href="https://www.linkedin.com/in/leandropessini/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
