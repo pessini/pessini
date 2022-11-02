@@ -5,7 +5,7 @@
 
 <h3>About me</h3>
 
-Formed **Software Engineer** and **Project Manager**, helping businesses make better decisions and solving problems by applying **Data Science** and **Machine Learning**.
+Former **Software Engineer** and **Project Manager**, helping businesses make better decisions and solving problems by applying **Data Science** and **Machine Learning**.
 
 Currently working in **Data Analytics** within the Risk & Response Legal team, specializing in report automation and product/process improvements.
 
