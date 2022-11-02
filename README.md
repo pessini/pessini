@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Leandro</h1>
 <h3 align="center">A Data Scientist / Analyst based in Dublin :ireland:</h3>
 
+<h3>About me</h3>
+
 <img align="right" alt="Coding" width="300" style="margin:10px;" src="https://github.com/pessini/pessini/blob/d6cf1f7d9c634b5b6cb9cb0549ddec56d558b18c/img/dev.gif?raw=true" />
 
 Former **Software Engineer** and **Project Manager**, helping businesses make better decisions and solving problems by applying **Data Science** and **Machine Learning**.
@@ -9,8 +11,6 @@ Currently working in **Data Analytics** within the Risk & Response Legal team, s
 
 Hold a Bachelor's degree in Computer Science (Systems Analysis) and a Postgraduate Diploma in **Data Science** from [TU Dublin](https://www.tudublin.ie/).
 
-<br />
-<hr />
 <h3>Tech skills</h3>
 
 <p align="left">
