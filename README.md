@@ -9,6 +9,7 @@ Currently working in **Data Analytics** within the Risk & Response Legal team, s
 
 Hold a Bachelor's degree in Computer Science (Systems Analysis) and a Postgraduate Diploma in **Data Science** from [TU Dublin](https://www.tudublin.ie/).
 
+<br />
 <hr />
 <h3>Tech skills</h3>
 
