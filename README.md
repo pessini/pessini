@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Leandro</h1>
-<h3 align="center">A Data Scientist / Analyst based in Dublin :ireland:</h3>
+<h3 align="center">A Data Scientist / Analyst from Brazil :brazil:</h3>
 
 <h3>About me</h3>
 
