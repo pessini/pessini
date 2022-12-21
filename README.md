@@ -5,11 +5,11 @@
 
 <img align="right" alt="Coding" width="250" style="margin:10px;" src="https://github.com/pessini/pessini/blob/d6cf1f7d9c634b5b6cb9cb0549ddec56d558b18c/img/dev.gif?raw=true" />
 
-Former **Software Engineer** and **Project Manager**, helping businesses make better decisions and solving problems by applying Data Science and Machine Learning.
+Former **Software Engineer** and **Project Manager**, helping businesses make better decisions and solving problems through Data Science and Machine Learning.
 
-Currently working in **Data Analytics** within the Risk & Response Legal team, specialized in reporting automation and product and process improvements.
+Currently working in **Data Analytics** within the Risk & Response Legal team, specialized in Reporting Automation and Product / Process improvement.
 
-Hold a Bachelor's degree in Computer Science (Systems Analysis) and a Postgraduate Diploma in **Data Science** from [TU Dublin](https://www.tudublin.ie/).
+Holds a Bachelor's degree in Computer Science (Systems Analysis) and a Postgraduate Diploma in **Data Science** from [TU Dublin](https://www.tudublin.ie/).
 
 <h3>Tech skills</h3>
 
