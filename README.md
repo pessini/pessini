@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Leandro</h1>
-<h3 align="center">A Data Scientist / Analyst from Brazil :brazil:</h3>
+<h3 align="center">A Data Scientist from Brazil :brazil:</h3>
 
 <h3>About me</h3>
 
 <img align="right" alt="Coding" width="250" style="margin:10px;" src="https://github.com/pessini/pessini/blob/d6cf1f7d9c634b5b6cb9cb0549ddec56d558b18c/img/dev.gif?raw=true" />
 
-Former **Software Engineer** and **Project Manager**, helping businesses make better decisions and solving problems through Data Science and Machine Learning.
+Currently working as **Data Scientist** at 4flow within supply chain management.
 
-Currently working in **Data Analytics** within the Risk & Response Legal team, specialized in Reporting Automation and Product / Process improvement.
+Former **Software Engineer** and **Project Manager**, helping businesses make better decisions and solving problems through Data Science and Machine Learning.
 
 Holds a Bachelor's degree in Computer Science (Systems Analysis) and a Postgraduate Diploma in **Data Science** from [TU Dublin](https://www.tudublin.ie/).
 
