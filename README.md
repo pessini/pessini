@@ -5,6 +5,9 @@
 
 <img align="right" alt="Coding" width="250" style="margin:10px;" src="https://github.com/pessini/pessini/blob/d6cf1f7d9c634b5b6cb9cb0549ddec56d558b18c/img/dev.gif?raw=true" />
 
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+<dotlottie-player src="https://lottie.host/175b4e9a-b3eb-4c3e-ae58-70e4b2e9be27/hTHlWcwlLZ.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+
 Currently working as **Data Scientist** at 4flow within supply chain management.
 
 Former **Software Engineer** and **Project Manager**, helping businesses make better decisions and solving problems through Data Science and Machine Learning.
