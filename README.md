@@ -28,9 +28,11 @@ Holds a Bachelor's degree in Computer Science (Systems Analysis) and a Postgradu
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="devicon" height="50" width="50" title="Jupyter Notebook" />
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="devicon" height="50" width="50" title="HTML" />
+    <img align="center" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" alt="devicon" height="50" width="50" title="React" />
+     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
+    <img align="center" src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="devicon" height="50" width="50" title="Typescript" />
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="devicon" height="50" width="50" title="CSS" />
+    <img align="center" src="https://github.com/devicons/devicon/raw/master/icons/swift/swift-original-wordmark.svg" alt="devicon" height="80" width="80" title="Swift" />
 </p>
 <!-- <hr>
 <div align="left">
