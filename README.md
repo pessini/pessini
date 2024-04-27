@@ -9,6 +9,7 @@ Former Software Engineer and Project Manager, currently helping [4flow](https://
 
 Holds a Bachelor's degree in Computer Science (Systems Analysis) and a Postgraduate Diploma in Data Science from [TU Dublin](https://www.tudublin.ie/).
 
+<br /><br />
 <h3>Tech skills</h3>
 
 <p align="left">
