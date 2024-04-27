@@ -14,8 +14,6 @@ Holds a Bachelor's degree in Computer Science (Systems Analysis) and a Postgradu
 <p align="left">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="60" width="60" title="Python" />
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="devicon" height="50" width="50" title="R" />
-    <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="devicon" height="50" width="50" title="git" />
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="devicon" height="80" width="80" title="AWS" />
