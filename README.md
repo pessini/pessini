@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Leandro</h1>
-<h3 align="center">A Data Scientist based in Brazil. :brazil:</h3>
+<h3 align="center">Data Scientist based in Brazil. :brazil:</h3>
 
 <h3>About me</h3>
-
-<img align="right" alt="Coding" width="250" style="margin:10px;" src="https://github.com/pessini/pessini/blob/d6cf1f7d9c634b5b6cb9cb0549ddec56d558b18c/img/dev.gif?raw=true" />
 
 Former Software Engineer and Project Manager, currently helping [4flow](https://www.4flow.com/) to make better decisions and solving problems through **Machine Learning** and Generative AI.
 
