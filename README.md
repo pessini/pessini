@@ -25,7 +25,7 @@ Holds a Bachelor's degree in Computer Science (Systems Analysis) and a Postgradu
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50" width="50" title="Docker" />
     <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
     <img align="center" src="https://img.icons8.com/color/96/000000/tableau-software.png" alt="devicon" height="50" width="50" title="Tableau" />
-    <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />\
+    <img src="https://github.com/pessini/pessini/blob/main/img/separator.png?raw=true" alt="separator" height="50" width="10" />
     <img align="center" src="https://github.com/devicons/devicon/raw/master/icons/swift/swift-original-wordmark.svg" alt="devicon" height="80" width="80" title="Swift" />
 </p>
 <!-- <hr>
